@@ -5,17 +5,70 @@ date: 2022-10-24
 type: landing
 
 sections:
+  - block: slider
+    content:
+      slides:
+      - title: Cutting-Edge Brain-Computer Interface Research
+        content: Exploring the intersection of neuroscience and artificial intelligence to develop next-generation brain-computer interface technologies
+        align: center
+        background:
+          image:
+            filename: welcome.jpg
+            filters:
+              brightness: 0.6
+          position: center
+          color: '#666'
+        link:
+          icon: brain
+          icon_pack: fas
+          text: Explore Research
+          url: ./publication/
+      - title: State-of-the-Art Laboratory
+        content: World-class laboratory equipped with advanced facilities to support groundbreaking research initiatives
+        align: left
+        background:
+          image:
+            filename: coders.jpg
+            filters:
+              brightness: 0.7
+          position: right
+          color: '#555'
+        link:
+          icon: microscope
+          icon_pack: fas
+          text: Take a Tour
+          url: ./tour/
+      - title: Excellence in Team
+        content: Bringing together top talents dedicated to advancing neural engineering and biomedical engineering
+        align: right
+        background:
+          image:
+            filename: contact.jpg
+            filters:
+              brightness: 0.5
+          position: center
+          color: '#333'
+        link:
+          icon: users
+          icon_pack: fas
+          text: Meet the Team
+          url: ./people/
+    design:
+      slide_height: '400px'
+      is_fullscreen: false
+      loop: true
+      interval: 4000
+
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        i-BRAIN
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        i-BRAIN will create solutions for the near-term but also enable future advances and treatments that today may be considered the realm of science fiction.
   
   - block: collection
     content:

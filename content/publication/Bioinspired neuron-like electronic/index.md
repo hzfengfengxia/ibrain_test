@@ -46,7 +46,6 @@ tags:
 - Brain-Computer Interface
 - Neural Prosthetics
 - Bioinspired Materials
-- publication
 featured: true
 
 # links:

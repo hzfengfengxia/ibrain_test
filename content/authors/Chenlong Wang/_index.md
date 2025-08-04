@@ -35,13 +35,13 @@ education:
   courses:
     - course: PhD in Brain-Computer Interface (Current)
       institution: Tsinghua University
-      year: 2024
+      year: 2026
     - course: Master's Degree
       institution: Tsinghua University
-      year: 2023
+      year: 2026
     - course: Bachelor's Degree
       institution: Beijing University of Posts and Telecommunications
-      year: 2021
+      year: 2023
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -75,7 +75,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - PHD Students
 ---
 
 Chenlong Wang is a PhD student at Tsinghua University, specializing in brain-computer interface research. He received his bachelor's degree from Beijing University of Posts and Telecommunications and his master's degree from Tsinghua University.

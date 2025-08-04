@@ -7,11 +7,13 @@ type: landing
 sections:
   - block: people
     content:
-      title: Meet the Tem
+      title: Meet the Team
       # Choose which groups/teams of users to display.
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
           - Principal Investigators
+          - PHD Students
+          - Postdoc
           - Researchers
           - Grad Students
           - Administration

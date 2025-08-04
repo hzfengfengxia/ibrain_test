@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Prof C
+title: Prof Charles.m.Lieber
 
 # Full name (for SEO)
 first_name: Charles

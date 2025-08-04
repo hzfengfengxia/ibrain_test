@@ -29,7 +29,7 @@ publishDate: "2019-05-01T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article-journal"]
+publication_types: ["publication"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Nature Materials, 18*(5)"

@@ -24,8 +24,8 @@ summary: A brain-computer interface system enabling direct neural control of ext
 tags:
 - Brain-Computer Interface
 - Neural Engineering
-- Machine Learning
-- patent  # 添加patent标签
+- Machine Learning 
+- patent # 添加patent标签
 featured: true
 
 # Patent-specific links

@@ -46,6 +46,7 @@ tags:
 - Bioelectronics
 - Brain-Computer Interface
 - Nanotechnology
+- publication
 featured: true
 
 # links:

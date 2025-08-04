@@ -13,7 +13,7 @@ sections:
         align: center
         background:
           image:
-            filename: meshe.jpg
+            filename: meshe.png
             filters:
               brightness: 0.6
           position: center

@@ -109,6 +109,26 @@ sections:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
 
+  - block: features
+    content:
+      title: Research Areas
+      subtitle: Our cutting-edge research focuses on three main areas
+      items:
+        - name: Brain-Computer Interfaces
+          description: Developing next-generation neural interfaces for direct brain-computer communication
+          icon: brain
+          icon_pack: fas
+        - name: Nanoelectronics
+          description: Creating ultra-small electronic devices using semiconductor nanowires
+          icon: microchip
+          icon_pack: fas
+        - name: Bioelectronics
+          description: Integrating electronics with biological systems for medical applications
+          icon: heartbeat
+          icon_pack: fas
+    design:
+      columns: '3'
+
   - block: collection
     content:
       title: Latest Preprints

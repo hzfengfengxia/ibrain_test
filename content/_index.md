@@ -54,7 +54,7 @@ sections:
           text: Meet the Team
           url: ./people/
     design:
-      slide_height: '400px'
+      slide_height: '600px'
       is_fullscreen: false
       loop: true
       interval: 4000

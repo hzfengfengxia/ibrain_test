@@ -13,7 +13,7 @@ sections:
         align: center
         background:
           image:
-            filename: welcome.jpg
+            filename: meshe.jpg
             filters:
               brightness: 0.6
           position: center

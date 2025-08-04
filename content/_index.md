@@ -64,7 +64,7 @@ sections:
       title: |
         i-BRAIN
       image:
-        filename: welcome.jpg
+        filename: ibrainlogo2.png
       text: |
         <br>
         

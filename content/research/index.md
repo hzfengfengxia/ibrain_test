@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: Our Research Areas
-      text
+      text:
         Exploring cutting-edge technologies at the intersection of neuroscience, engineering, and artificial intelligence.
       image:
         filename: welcome.jpg

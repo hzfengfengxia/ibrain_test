@@ -16,32 +16,6 @@ sections:
       spacing:
         padding: ['40px', '0', '40px', '0']
 
-  - block: features
-    content:
-      title: Core Facilities
-      subtitle: Advanced equipment for multidisciplinary research
-      items:
-        - name: Cleanroom Facility
-          description: |
-            Class 100/1000 cleanroom with advanced lithography, etching, and deposition systems for nanofabrication. 
-            Includes electron beam lithography, reactive ion etching, and chemical vapor deposition systems.
-          icon: industry
-          icon_pack: fas
-        - name: Neural Recording Lab
-          description: |
-            High-density neural recording systems with real-time signal processing capabilities. 
-            Multi-channel amplifiers, wireless recording systems, and advanced data acquisition platforms.
-          icon: brain
-          icon_pack: fas
-        - name: Materials Characterization
-          description: |
-            Comprehensive suite of characterization tools including SEM, AFM, XRD, and optical spectroscopy. 
-            Advanced imaging and analysis capabilities for nanoscale materials.
-          icon: microscope
-          icon_pack: fas
-    design:
-      columns: '3'
-
   - block: markdown
     content:
       title: Equipment Inventory
@@ -187,32 +161,6 @@ sections:
           - Frequency range: 10 μHz - 1 MHz
     design:
       columns: '1'
-
-  - block: features
-    content:
-      title: Specialized Capabilities
-      subtitle: Unique research advantages
-      items:
-        - name: In-Vivo Testing
-          description: |
-            Animal research facility with surgical suites for chronic neural implant studies. 
-            Behavioral testing rooms and long-term monitoring capabilities.
-          icon: heartbeat
-          icon_pack: fas
-        - name: Custom Electronics
-          description: |
-            PCB design and assembly lab with pick-and-place machines, reflow ovens, 
-            and testing equipment for custom neural interface electronics.
-          icon: microchip
-          icon_pack: fas
-        - name: 3D Printing & Prototyping
-          description: |
-            Rapid prototyping capabilities including stereolithography, fused deposition modeling, 
-            and precision machining for custom experimental setups.
-          icon: cube
-          icon_pack: fas
-    design:
-      columns: '3'
 
   - block: markdown
     content:

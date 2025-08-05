@@ -122,6 +122,33 @@ sections:
       view: citation
       columns: '1'
 
+
+  - block: contact
+    content:
+      title: Join Our Research Team
+      subtitle: Current Opportunities
+      text: |
+        **Open Positions:**
+        - PhD Students in Neural Engineering
+        - Postdoctoral Researchers in BCI
+        - Research Engineers in Nanoelectronics
+      email: recruitment@ibrain-lab.com
+      phone: +1 (555) 123-4567
+      address:
+        street: 123 University Ave
+        city: Boston
+        region: MA
+        postcode: '02139'
+        country: United States
+        country_code: US
+      contact_links:
+        - icon: envelope
+          icon_pack: fas
+          name: Email Us
+          link: 'mailto:recruitment@ibrain-lab.com'
+    design:
+      columns: '1'
+
   - block: markdown
     content:
       title:
@@ -131,25 +158,5 @@ sections:
     design:
       columns: '1'
 
-  - block: cta
-    content:
-      title: Join Our Team
-      text: |
-        We are always looking for talented individuals to join our research group. 
-        Current openings include:
-        
-        ** PhD Students** - Neural Engineering & Bioelectronics  
-        ** Postdoctoral Researchers** - Brain-Computer Interfaces  
-        ** Research Engineers** - Nanoelectronics & Device Fabrication
-        
-        **Contact us:** recruitment@ibrain-lab.com
-      button:
-        text: 'Apply Now'
-        url: 'mailto:recruitment@ibrain-lab.com'
-    design:
-      columns: '1'
-      background:
-        gradient_start: '#4bb6ff'
-        gradient_end: '#2563eb'
-        text_color_light: true
+
 ---

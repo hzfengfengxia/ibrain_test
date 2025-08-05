@@ -113,13 +113,12 @@ sections:
 
   - block: collection
     content:
-      title: Latest Preprints
+      title: Latest Papers
       text: ""
       count: 5
       filters:
         folders:
           - publication
-        publication_type: 'preprint'
     design:
       view: citation
       columns: '1'

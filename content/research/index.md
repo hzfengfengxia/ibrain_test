@@ -1,164 +1,115 @@
 ---
-title: Contact
+title: Research Areas
 date: 2022-10-24
 
 type: landing
 
 sections:
-  - block: markdown
+  - block: hero
     content:
-      title: Join Our Research Team
-      subtitle: Current Open Positions
-      text: |
-        We are actively seeking talented individuals to join our cutting-edge research in brain-computer interfaces, nanoelectronics, and bioelectronics.
-
-        ## 🎓 PhD Students in Neural Engineering
-        
-        **Research Areas:**
-        - Brain-computer interface development
-        - Neural signal processing and analysis
-        - Biocompatible electrode design
-        - Machine learning for neural decoding
-        
-        **Requirements:**
-        - Master's degree in Electrical Engineering, Biomedical Engineering, Neuroscience, or related field
-        - Strong background in signal processing and programming (Python/MATLAB)
-        - Experience with neural data analysis preferred
-        - Excellent written and oral communication skills
-        
-        **What We Offer:**
-        - Full funding for 4-5 years (tuition + stipend)
-        - Access to state-of-the-art facilities
-        - Collaborative research environment
-        - Opportunities for international conferences
-
-        ---
-
-        ## 🔬 Postdoctoral Researchers in Brain-Computer Interfaces
-        
-        **Research Focus:**
-        - Advanced BCI algorithms and real-time implementation
-        - Invasive and non-invasive neural interface technologies
-        - Clinical translation of BCI systems
-        - Multi-modal neural signal integration
-        
-        **Requirements:**
-        - PhD in Electrical Engineering, Biomedical Engineering, Computer Science, or related field
-        - 2+ years experience in neural engineering or BCI research
-        - Strong publication record in peer-reviewed journals
-        - Proficiency in real-time signal processing and machine learning
-        - Experience with clinical research protocols preferred
-        
-        **What We Offer:**
-        - Competitive salary ($55,000-$65,000 annually)
-        - 2-3 year appointment with possibility of extension
-        - Independent research opportunities
-        - Mentorship and career development support
-
-        ---
-
-        ## 👨‍💻 Research Engineers in Nanoelectronics & Device Fabrication
-        
-        **Responsibilities:**
-        - Design and fabrication of semiconductor nanowire devices
-        - Cleanroom processing and characterization
-        - Development of novel bioelectronic interfaces
-        - Collaboration with interdisciplinary research teams
-        
-        **Requirements:**
-        - Master's or PhD in Electrical Engineering, Materials Science, or related field
-        - 3+ years experience in semiconductor device fabrication
-        - Proficiency in cleanroom techniques (lithography, etching, deposition)
-        - Knowledge of device characterization methods
-        - Experience with CAD tools for device design
-        
-        **What We Offer:**
-        - Industry-competitive salary ($70,000-$90,000)
-        - Comprehensive benefits package
-        - Professional development opportunities
-        - Flexible work arrangements
-
-        ---
-
-        ## 📧 How to Apply
-        
-        **For all positions, please send:**
-        - Detailed CV/Resume
-        - Cover letter explaining your research interests
-        - 2-3 references with contact information
-        - Representative publications (for postdoc positions)
-        
-        **Application Deadline:** Rolling basis - apply early for best consideration
-        
-        **Questions?** Contact us at recruitment@ibrain-lab.com
+      title: Our Research Areas
+      text
+        Exploring cutting-edge technologies at the intersection of neuroscience, engineering, and artificial intelligence.
+      image:
+        filename: welcome.jpg
     design:
-      columns: '1'
-      background:
-        color: '#f8f9fa'
-
-  - block: contact
-    content:
-      title: Contact Information
-      text: |-
-        Ready to join our team? Get in touch with us for more information about current opportunities or to discuss potential collaborations.
-      email: recruitment@ibrain-lab.com
-      phone: 888 888 88 88
-      address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
-      coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
-      appointment_url: 'https://calendly.com'
-      contact_links:
-        - icon: envelope
-          icon_pack: fas
-          name: Send Application
-          link: 'mailto:recruitment@ibrain-lab.com'
-        - icon: calendar-check
-          icon_pack: fas
-          name: Schedule Meeting
-          link: 'https://calendly.com'
-    
-      # Automatically link email and phone or display as text?
-      autolink: true
-    
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
-    design:
-      columns: '1'
-
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: contact.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
       spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
+        padding: ['40px', '0', '40px', '0']
+
+  - block: features
+    content:
+      title: Core Research Areas
+      subtitle: Three main pillars of our research
+      items:
+        - name: Brain-Computer Interfaces
+          description: |
+            Developing next-generation neural interfaces for direct brain-computer communication. 
+            Our work focuses on invasive and non-invasive BCI systems, real-time neural signal processing, 
+            and clinical applications for paralyzed patients.
+          icon: brain
+          icon_pack: fas
+        - name: Nanoelectronics
+          description: |
+            Creating ultra-small electronic devices using semiconductor nanowires and advanced fabrication techniques. 
+            We design novel nanostructures for high-performance electronics and biomedical applications.
+          icon: microchip
+          icon_pack: fas
+        - name: Bioelectronics
+          description: |
+            Integrating electronics with biological systems for medical applications and therapeutic interventions. 
+            Our research includes implantable devices, biosensors, and neural prosthetics.
+          icon: heartbeat
+          icon_pack: fas
+    design:
+      columns: '3'
+
+  - block: markdown
+    content:
+      title: Research Highlights
+      subtitle: 
+      text: |
+        ## 🧠 Brain-Computer Interface Systems
+        
+        ### Current Projects:
+        - **High-density neural recording arrays** - Developing flexible electrode arrays for chronic neural recording
+        - **Real-time BCI decoding** - Machine learning algorithms for motor intention decoding
+        - **Clinical BCI trials** - Translating research to help paralyzed patients control devices
+        
+        ### Key Publications:
+        - Nature Neuroscience (2023): "Flexible mesh electronics for chronic neural interfaces"
+        - Science Translational Medicine (2022): "Real-time BCI control of robotic arms"
+        
+        ---
+        
+        ## ⚡ Nanoelectronics & Device Physics
+        
+        ### Current Projects:
+        - **Semiconductor nanowire synthesis** - Controlled growth of III-V nanowires
+        - **Single nanowire devices** - Ultra-sensitive transistors and photodetectors
+        - **Quantum devices** - Exploring quantum effects in nanoscale systems
+        
+        ### Key Publications:
+        - Nature Materials (2023): "Controlled synthesis of InAs nanowires"
+        - Nano Letters (2022): "Single nanowire quantum devices"
+        
+        ---
+        
+        ## 🔬 Bioelectronics & Neural Engineering
+        
+        ### Current Projects:
+        - **Injectable mesh electronics** - Minimally invasive neural interfaces
+        - **Biocompatible materials** - Long-term stable neural electrodes
+        - **Wireless neural devices** - Battery-free implantable systems
+        
+        ### Key Publications:
+        - Nature Biotechnology (2023): "Injectable mesh electronics for brain monitoring"
+        - Advanced Materials (2022): "Biocompatible neural electrodes"
+    design:
+      columns: '1'
+
+  - block: collection
+    content:
+      title: Related Publications
+      text: ""
+      count: 6
+      filters:
+        folders:
+          - publication
+        publication_type: 'article'
+    design:
+      view: citation
+      columns: '1'
+
+  - block: markdown
+    content:
+      title: Interested in Our Research?
+      subtitle: Join our team or collaborate with us
+      text: |
+        <div style="text-align: center; padding: 40px; background: linear-gradient(135deg, #4bb6ff 0%, #2563eb 100%); border-radius: 10px; color: white; margin: 20px 0;">
+          <h3 style="color: white; margin-bottom: 20px;">Ready to Make an Impact?</h3>
+          <p style="font-size: 18px; margin-bottom: 30px;">Join our team or collaborate with us on cutting-edge research projects.</p>
+          <a href="../contact/" style="background: white; color: #2563eb; padding: 15px 30px; border-radius: 5px; text-decoration: none; font-weight: bold; display: inline-block;">Contact Us</a>
+        </div>
+    design:
+      columns: '1'
 ---

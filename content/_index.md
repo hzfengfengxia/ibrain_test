@@ -39,7 +39,7 @@ sections:
           icon: microscope
           icon_pack: fas
           text: Take a Tour
-          url: ./tour/
+          url: ./facilities/
       - title: Excellence in Team
         content: Bringing together top talents dedicated to advancing neural engineering and biomedical engineering
         align: right
@@ -101,11 +101,12 @@ sections:
           icon: brain
           icon_pack: fas
         - name: Nanoelectronics
+          description: Creating ultra-small electronic devices using semiconductor nanowires and advanced fabrication techniques
           icon: microchip
           icon_pack: fas
         - name: Bioelectronics
           description: Integrating electronics with biological systems for medical applications
-                   icon: heartbeat
+          icon: heartbeat
           icon_pack: fas
     design:
       columns: '3'
@@ -118,10 +119,10 @@ sections:
       filters:
         folders:
           - publication
-@@ -122,45 +100,18 @@ sections:
+        publication_type: 'preprint'
+    design:
       view: citation
       columns: '1'
-
 
   - block: contact
     content:
@@ -161,6 +162,4 @@ sections:
         {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
     design:
       columns: '1'
-
-
 ---

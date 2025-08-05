@@ -70,7 +70,7 @@ sections:
       text: |
         <br>
         
-        To develop transformative brain-computer interfaces (BCIs) that blur the distinction between electronics and living tissue such that one produces seamless, noninvasive and fully-stable integration of electronics with the brain to enable groundbreaking research understanding the brain and brain diseases as well as breakthrough technologies for treatment of neurological and neurodegenerative diseases. i-BRAIN will create solutions for the near-term but also enable future advances and treatments that today may be considered the realm of science fiction.
+        i-BRAIN aims to develop transformative brain-computer interfaces that seamlessly and stably integrate electronics with brain tissue, enabling advanced brain research and new treatments for neurological diseases, while laying the foundation for future breakthroughs.
   
   - block: collection
     content:

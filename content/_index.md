@@ -100,18 +100,16 @@ sections:
       view: citation
       columns: '1'
 
-  - block: cta
+  - block: markdown
     content:
       title: Interested in Our Research?
+      subtitle: Join our team or collaborate with us
       text: |
-        Join our team or collaborate with us on cutting-edge research projects.
-      button:
-        text: 'Contact Us'
-        url: './contact/'
+        <div style="text-align: center; padding: 40px; background: linear-gradient(135deg, #4bb6ff 0%, #2563eb 100%); border-radius: 10px; color: white; margin: 20px 0;">
+          <h3 style="color: white; margin-bottom: 20px;">Ready to Make an Impact?</h3>
+          <p style="font-size: 18px; margin-bottom: 30px;">Join our team or collaborate with us on cutting-edge research projects.</p>
+          <a href="../contact/" style="background: white; color: #2563eb; padding: 15px 30px; border-radius: 5px; text-decoration: none; font-weight: bold; display: inline-block;">Contact Us</a>
+        </div>
     design:
       columns: '1'
-      background:
-        gradient_start: '#4bb6ff'
-        gradient_end: '#2563eb'
-        text_color_light: true
 ---

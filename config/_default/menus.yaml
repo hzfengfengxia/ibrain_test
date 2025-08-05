@@ -13,6 +13,9 @@ main:
   - name: Research
     url: research
     weight: 35
+  - name: Facilities
+    url: facilities
+    weight: 37
   - name: Events
     url: event
     weight: 40

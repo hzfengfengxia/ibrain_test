@@ -48,7 +48,7 @@ sections:
       title: Research Highlights
       subtitle: 
       text: |
-        ## 🧠 Brain-Computer Interface Systems
+        ## Brain-Computer Interface Systems
         
         ### Current Projects:
         - **High-density neural recording arrays** - Developing flexible electrode arrays for chronic neural recording
@@ -74,7 +74,7 @@ sections:
         
         ---
         
-        ## 🔬 Bioelectronics & Neural Engineering
+        ## Bioelectronics & Neural Engineering
         
         ### Current Projects:
         - **Injectable mesh electronics** - Minimally invasive neural interfaces

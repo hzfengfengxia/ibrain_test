@@ -146,9 +146,9 @@ sections:
           icon_pack: fas
           name: Email Us
           link: 'mailto:recruitment@ibrain-lab.com'
-        - icon: phone
+        - icon: address-card
           icon_pack: fas
-          name: Contact Page
+          name: Visit Contact Page
           link: './contact/'
     design:
       columns: '1'

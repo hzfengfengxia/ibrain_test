@@ -64,7 +64,7 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
-  - Principal Investigators
+  - Principal Investigator
 ---
 
 Charles M. Lieber (CV) was born in Philadelphia, Pennsylvania in 1959. He attended Franklin and Marshall College for his undergraduate education and graduated with honors in Chemistry. After doctoral studies at Stanford University and postdoctoral research at the California Institute of Technology, he moved to the East Coast in 1987 to assume the position of Assistant Professor at Columbia University. Here Lieber embarked upon a new research program addressing the synthesis and properties of low-dimensional materials. He moved to Harvard University in 1991 and holds a joint appointment in the Department of Chemistry and Chemical Biology and the Harvard John A. Paulson School of Engineering and Applied Sciences, as the Joshua and Beth Friedman University Professor. He also serves as the Chair of the Department of Chemistry and Chemical Biology. Lieber has been a pioneer in nanoscience and nanotechnology where he has originated new paradigms that have defined the rational growth, characterization, and original applications of functional nanometer diameter wires and heterostructures. Lieber has provided seminal concepts central to the bottom-up paradigm of nanoscience, and has been a leader in defining directions and demonstrating applications of nanomaterials in areas ranging from electronics, computing, and photonics, as well as pioneering the interface between electronics with biology and medicine, including his current focus in brain science. 

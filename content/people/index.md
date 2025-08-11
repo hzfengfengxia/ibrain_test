@@ -86,30 +86,7 @@ sections:
         </div>
         
         ---
-        
-        ## 📝 **如何添加/删除Alumni记录**
-        
-        ### **添加新的Alumni：**
-        1. 在上面的表格中复制一行 `<tr>` 标签及其内容
-        2. 修改其中的姓名、职位和公司信息
-        3. 注意交替使用 `background-color: #f8f9fa;` 和 `background-color: white;` 来保持条纹效果
-        
-        ### **删除Alumni记录：**
-        1. 找到要删除的人员对应的 `<tr>` 行
-        2. 删除整个 `<tr>...</tr>` 标签及其内容
-        
-        ### **添加链接：**
-        - 如果有个人网页或LinkedIn，可以在姓名周围添加 `<a href="链接地址">姓名</a>`
-        - 如果没有链接，直接写姓名即可
-        
-        ### **示例添加新记录：**
-        ```html
-        <tr style="background-color: #f8f9fa;">
-          <td style="padding: 12px 15px; border: 1px solid #ddd;"><a href="#" style="color: #2563eb; text-decoration: none; font-weight: 500;">新姓名</a></td>
-          <td style="padding: 12px 15px; border: 1px solid #ddd;">新职位</td>
-          <td style="padding: 12px 15px; border: 1px solid #ddd;">新公司/大学</td>
-        </tr>
-        ```
+       
     design:
       columns: '1'
       background:

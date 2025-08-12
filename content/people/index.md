@@ -231,6 +231,256 @@ sections:
                 <td style="padding: 12px 15px; border: 1px solid #ddd;">Marketing Director</td>
                 <td style="padding: 12px 15px; border: 1px solid #ddd;">Lam Research</td>
               </tr>
+              <tr style="background-color: #f8f9fa;">
+                <td style="padding: 12px 15px; border: 1px solid #ddd; font-weight: 500;">Hu, Jinsong</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">Professor</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">Key Laboratory of Molecular Nanostructure and Nanotechnology Institute of Chemistry, Chinese Academy of Sciences</td>
+              </tr>
+              <tr style="background-color: white;">
+                <td style="padding: 12px 15px; border: 1px solid #ddd; font-weight: 500;">Hu, Yongjie</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">Associate Professor</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">University of California, Los Angeles Department of Mechanical & Aerospace Engineering</td>
+              </tr>
+              <tr style="background-color: #f8f9fa;">
+                <td style="padding: 12px 15px; border: 1px solid #ddd; font-weight: 500;">Huang, Yu</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">Professor</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">University of California, Los Angeles Department of Materials Science & Engineering</td>
+              </tr>
+              <tr style="background-color: white;">
+                <td style="padding: 12px 15px; border: 1px solid #ddd; font-weight: 500;">Javey, Ali</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">Professor</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">University of California, Berkeley Department of Electrical Engineering & Computer Science</td>
+              </tr>
+              <tr style="background-color: #f8f9fa;">
+                <td style="padding: 12px 15px; border: 1px solid #ddd; font-weight: 500;">Jiang, Xiaocheng</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">Assistant Professor</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">Tufts University Department of Biomedical Engineering</td>
+              </tr>
+              <tr style="background-color: white;">
+                <td style="padding: 12px 15px; border: 1px solid #ddd; font-weight: 500;">Jin, Song</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">Professor</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">University of Wisconsin-Madison Department of Chemistry</td>
+              </tr>
+              <tr style="background-color: #f8f9fa;">
+                <td style="padding: 12px 15px; border: 1px solid #ddd; font-weight: 500;">Joselevich, Ernesto</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">Professor</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">Weizmann Institute of Science, Israel Department of Materials and Interfaces</td>
+              </tr>
+              <tr style="background-color: white;">
+                <td style="padding: 12px 15px; border: 1px solid #ddd; font-weight: 500;">Kelty, Stephen</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">Professor</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">Seton Hall University Department of Chemistry & Biochemistry</td>
+              </tr>
+              <tr style="background-color: #f8f9fa;">
+                <td style="padding: 12px 15px; border: 1px solid #ddd; font-weight: 500;">Kempa, Thomas</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">Assistant Professor</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">Johns Hopkins University Department of Chemistry</td>
+              </tr>
+              <tr style="background-color: white;">
+                <td style="padding: 12px 15px; border: 1px solid #ddd; font-weight: 500;">Kim, Philip</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">Professor</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">Harvard University Department of Physics</td>
+              </tr>
+              <tr style="background-color: #f8f9fa;">
+                <td style="padding: 12px 15px; border: 1px solid #ddd; font-weight: 500;">Kim, Sun Kyung</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">Associate Professor</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">Kyung Hee University Department of Applied Physics</td>
+              </tr>
+              <tr style="background-color: white;">
+                <td style="padding: 12px 15px; border: 1px solid #ddd; font-weight: 500;">Lauhon, Lincoln</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">Professor; Associate Chair</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">Northwestern University Department of Materials Science & Engineering</td>
+              </tr>
+              <tr style="background-color: #f8f9fa;">
+                <td style="padding: 12px 15px; border: 1px solid #ddd; font-weight: 500;">Lee, Jae-Hyun</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">Assistant Professor</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">Yonsei University IBS Center for Nanomedicine</td>
+              </tr>
+              <tr style="background-color: white;">
+                <td style="padding: 12px 15px; border: 1px solid #ddd; font-weight: 500;">Lee, Jongha</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">Postdoctoral Fellow</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">Harvard University Applied Physics</td>
+              </tr>
+              <tr style="background-color: #f8f9fa;">
+                <td style="padding: 12px 15px; border: 1px solid #ddd; font-weight: 500;">Lee, Jung Min</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">Postdoctoral Fellow</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">Korea University Department of Physics</td>
+              </tr>
+              <tr style="background-color: white;">
+                <td style="padding: 12px 15px; border: 1px solid #ddd; font-weight: 500;">Li, Yat</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">Professor</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">University of California, Santa Cruz Department of Chemistry & Biochemistry</td>
+              </tr>
+              <tr style="background-color: #f8f9fa;">
+                <td style="padding: 12px 15px; border: 1px solid #ddd; font-weight: 500;">Li, Yonghong</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">Research Scientist</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">Texas Instruments</td>
+              </tr>
+              <tr style="background-color: white;">
+                <td style="padding: 12px 15px; border: 1px solid #ddd; font-weight: 500;">Lin, Dingchang</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">Assistant Professor</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">Johns Hopkins University</td>
+              </tr>
+              <tr style="background-color: #f8f9fa;">
+                <td style="padding: 12px 15px; border: 1px solid #ddd; font-weight: 500;">Lin, Keng-hui</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">Associate Research Fellow</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">Academia Sinica, Taiwan Institute of Physics</td>
+              </tr>
+              <tr style="background-color: white;">
+                <td style="padding: 12px 15px; border: 1px solid #ddd; font-weight: 500;">Liu, Jia</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">Assistant Professor</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">Harvard University School of Engineering and Applied Sciences</td>
+              </tr>
+              <tr style="background-color: #f8f9fa;">
+                <td style="padding: 12px 15px; border: 1px solid #ddd; font-weight: 500;">Liu, Jie</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">Professor</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">Duke University Department of Chemistry</td>
+              </tr>
+              <tr style="background-color: white;">
+                <td style="padding: 12px 15px; border: 1px solid #ddd; font-weight: 500;">Lu, Wei</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">Professor</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">University of Michigan-Ann Arbor Department of Electrical Engineering & Computer Science</td>
+              </tr>
+              <tr style="background-color: #f8f9fa;">
+                <td style="padding: 12px 15px; border: 1px solid #ddd; font-weight: 500;">Mankin, Max</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">Co-founder and Chief Technology Officer</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">Modern Electron Inc.</td>
+              </tr>
+              <tr style="background-color: white;">
+                <td style="padding: 12px 15px; border: 1px solid #ddd; font-weight: 500;">McAlpine, Michael</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">Professor</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">University of Minnesota Department of Mechanical Engineering</td>
+              </tr>
+              <tr style="background-color: #f8f9fa;">
+                <td style="padding: 12px 15px; border: 1px solid #ddd; font-weight: 500;">Morales, Alfredo</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">Manager</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">Sandia National Laboratories Radiation and Nuclear Detection Materials and Analysis</td>
+              </tr>
+              <tr style="background-color: white;">
+                <td style="padding: 12px 15px; border: 1px solid #ddd; font-weight: 500;">Nam, SungWoo</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">Associate Professor</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">University of Illinois at Urbana-Champaign Department of Mechanical Science and Engineering</td>
+              </tr>
+              <tr style="background-color: #f8f9fa;">
+                <td style="padding: 12px 15px; border: 1px solid #ddd; font-weight: 500;">Nelson, Erik</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">Director|Optoelectronic Devices</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">Fathom Computing</td>
+              </tr>
+              <tr style="background-color: white;">
+                <td style="padding: 12px 15px; border: 1px solid #ddd; font-weight: 500;">Niu, Chunming</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">Professor</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">Xi'an Jiaotong University Center of Nanomaterials for Renewable Energy</td>
+              </tr>
+              <tr style="background-color: #f8f9fa;">
+                <td style="padding: 12px 15px; border: 1px solid #ddd; font-weight: 500;">No, You-Shin</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">Assistant Professor</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">Konkuk University Department of Physics</td>
+              </tr>
+              <tr style="background-color: white;">
+                <td style="padding: 12px 15px; border: 1px solid #ddd; font-weight: 500;">Noy, Aleksandr</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">Associate Adjunct Professor</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">University of California, Merced; School of Natural Sciences</td>
+              </tr>
+              <tr style="background-color: #f8f9fa;">
+                <td style="padding: 12px 15px; border: 1px solid #ddd; font-weight: 500;">Odom, Teri</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">Professor</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">Northwestern University Department of Chemistry</td>
+              </tr>
+              <tr style="background-color: white;">
+                <td style="padding: 12px 15px; border: 1px solid #ddd; font-weight: 500;">Oosterkamp, Tjerk</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">Professor</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">Leiden University, Netherlands Department of Physics</td>
+              </tr>
+              <tr style="background-color: #f8f9fa;">
+                <td style="padding: 12px 15px; border: 1px solid #ddd; font-weight: 500;">Ouyang, Min</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">Professor</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">University of Maryland Department of Physics</td>
+              </tr>
+              <tr style="background-color: white;">
+                <td style="padding: 12px 15px; border: 1px solid #ddd; font-weight: 500;">Park, Hong-Gyu</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">Professor</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">Korea University Department of Physics</td>
+              </tr>
+              <tr style="background-color: #f8f9fa;">
+                <td style="padding: 12px 15px; border: 1px solid #ddd; font-weight: 500;">Park, Jang-Ung</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">Associate Professor</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">Yonsei University Department of Materials Science and Engineering</td>
+              </tr>
+              <tr style="background-color: white;">
+                <td style="padding: 12px 15px; border: 1px solid #ddd; font-weight: 500;">Park, Won Il</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">Professor</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">Hanyang University, Korea Division of Materials Science & Engineering</td>
+              </tr>
+              <tr style="background-color: #f8f9fa;">
+                <td style="padding: 12px 15px; border: 1px solid #ddd; font-weight: 500;">Patolsky, Fernando</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">Associate Professor</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">Tel Aviv University, Israel School of Chemistry</td>
+              </tr>
+              <tr style="background-color: white;">
+                <td style="padding: 12px 15px; border: 1px solid #ddd; font-weight: 500;">Qi, Yue</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">Research Assistant Professor</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">Peking University College of Chemistry and Molecular Engineering</td>
+              </tr>
+              <tr style="background-color: #f8f9fa;">
+                <td style="padding: 12px 15px; border: 1px solid #ddd; font-weight: 500;">Qian, Fang</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">Research Staff</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">Lawrence Livermore National Laboratory Materials Science Division</td>
+              </tr>
+              <tr style="background-color: white;">
+                <td style="padding: 12px 15px; border: 1px solid #ddd; font-weight: 500;">Qiao, Zheng-Ping</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">Associate Professor</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">Sun Yat-Sen University Department of Chemistry & Chemical Engineering</td>
+              </tr>
+              <tr style="background-color: #f8f9fa;">
+                <td style="padding: 12px 15px; border: 1px solid #ddd; font-weight: 500;">Qing, Quan</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">Associate Professor</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">Arizona State University Department of Physics/The Biodesign Institute</td>
+              </tr>
+              <tr style="background-color: white;">
+                <td style="padding: 12px 15px; border: 1px solid #ddd; font-weight: 500;">Radovanovic, Pavle</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">Professor</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">University of Waterloo, Canada Department of Chemistry</td>
+              </tr>
+              <tr style="background-color: #f8f9fa;">
+                <td style="padding: 12px 15px; border: 1px solid #ddd; font-weight: 500;">Rueckes, Thomas</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">Chief Technical Officer</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">Nantero, Inc.</td>
+              </tr>
+              <tr style="background-color: white;">
+                <td style="padding: 12px 15px; border: 1px solid #ddd; font-weight: 500;">Schuhmann, Thomas</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">Technology Prospector</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">X – The Moonshot Factory</td>
+              </tr>
+              <tr style="background-color: #f8f9fa;">
+                <td style="padding: 12px 15px; border: 1px solid #ddd; font-weight: 500;">Sheehan, Paul</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">Program Manager, Biological Technologies Office</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">Defense Advanced Research Projects Agency</td>
+              </tr>
+              <tr style="background-color: white;">
+                <td style="padding: 12px 15px; border: 1px solid #ddd; font-weight: 500;">Shim, Wooyoung</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">Associate Professor</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">Yonsei University Department of Materials Science and Engineering</td>
+              </tr>
+              <tr style="background-color: #f8f9fa;">
+                <td style="padding: 12px 15px; border: 1px solid #ddd; font-weight: 500;">Smith, David</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">Professor</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">University of Southampton Nanomaterials Group</td>
+              </tr>
+              <tr style="background-color: white;">
+                <td style="padding: 12px 15px; border: 1px solid #ddd; font-weight: 500;">Stevens, Andrew</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">Managing Director</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">DC Energy</td>
+              </tr>
+              <tr style="background-color: #f8f9fa;">
+                <td style="padding: 12px 15px; border: 1px solid #ddd; font-weight: 500;">Strehle, Steffen</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">Professor</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">Ilmenau University of Technology Department of Mechanical Engineering Microsystems Technology</td>
+              </tr>
+              <tr style="background-color: white;">
+                <td style="padding: 12px 15px; border: 1px solid #ddd; font-weight: 500;">Tian, Bozhi</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">Associate Professor</td>
+                <td style="padding: 12px 15px; border: 1px solid #ddd;">University of Chicago Department of Chemistry</td>
+              </tr>
             </tbody>
           </table>
         </div>

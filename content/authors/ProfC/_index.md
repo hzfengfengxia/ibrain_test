@@ -5,6 +5,7 @@ title: Prof Charles.m.Lieber
 # Full name (for SEO)
 first_name: Charles
 last_name: Lieber
+sequence_weight: 100
 
 # Username (this should match the folder name)
 authors:

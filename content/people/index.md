@@ -19,7 +19,8 @@ sections:
           - Grad Students
           - Administration
           - Visitors
-      sort_by: Params.last_name
+      sort_by: Params.sequence_weight
+
       sort_ascending: true
     design:
       show_interests: false

@@ -5,6 +5,8 @@ title: Xiao Fan
 # Full name (for SEO)
 first_name: Xiao
 last_name: Fan
+sequence_weight: 100
+
 
 # Username (this should match the folder name)
 authors:

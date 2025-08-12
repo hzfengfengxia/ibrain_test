@@ -5,6 +5,7 @@ title: JungMin Lee
 # Full name (for SEO)
 first_name: JungMin
 last_name: Lee
+sequence_weight: 100
 
 # Username (this should match the folder name)
 authors:

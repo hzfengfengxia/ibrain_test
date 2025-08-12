@@ -5,6 +5,8 @@ title: Honghui Zheng
 # Full name (for SEO)
 first_name: Honghui
 last_name: Zheng
+sequence_weight: 99
+
 
 # Username (this should match the folder name)
 authors:
